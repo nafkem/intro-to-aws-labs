@@ -10,7 +10,8 @@ Select the template created from previous lab.
 Select Resource tags and input key "Name" and Value "Webserver"
 Lauch instance.
 Click on " instances"
-Copy the Public IPv4 address or the Public DNS Address and paste on a new browser page" It should display a webpage with the private ip of your instance"
+Copy the Public IPv4 address or the Public DNS Address and paste on a new browser page" It should display a webpage
+ with the private ip of your instance"
 (Hello World from ip-<private ip address>.ec2.internal)
 Screenshot and send to the group chat for verification.
 
@@ -25,6 +26,11 @@ Once confirmed, terminate your instance.
 
 Step3(Documentation)
 Document all the steps in the file you have opened in the editor.
+Save and git add and git commit
+Push to your personal repo.
+
+Step4(Documentation)
+Uploaded my Linux(2).pem and ran the sudo ssh -i "<keypair name" ec2-user@<public-ip-address>.compute-1.amazonaws.com via cloudshell
 Save and git add and git commit
 Push to your personal repo.
 
