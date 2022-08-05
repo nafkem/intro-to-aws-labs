@@ -39,6 +39,7 @@ Send screenshot for confirmation.
 
 Step 6
 Once confirmed, kindly clean up your AWS account.
-Edit the file in VSCode editor, save and push to your personal remote repo.
+Edit the file in VSCode editor, save and push to your personal remote repo
+chmod 400 was used to change permission of Linux.pem file
 
 
