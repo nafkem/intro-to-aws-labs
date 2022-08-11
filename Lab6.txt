@@ -76,7 +76,10 @@ Send screenshot
 
 Step 7
 Once confirmed, kindly clean up your AWS account.
-Edit the file in VSCode editor, save and push to your personal remote repo.
+Edit the file in VSCode editor, save and push to your personal remote repo
+I had create a fresh VPC with subnets and SG
+I had to choose a public subnets and allow all traffic to instances
+Allow the Inbound traffic from the ALB.
 
 
 
