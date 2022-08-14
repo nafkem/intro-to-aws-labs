@@ -75,6 +75,10 @@ Step 8
 Once confirmed, kindly clean up your AWS account.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
+step 9
+chose the default vpc and default subnets 
+re-register the target group
+Allow all traffic from SG
 
 
 
