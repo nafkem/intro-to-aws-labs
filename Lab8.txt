@@ -58,6 +58,11 @@ Step 7
 Once confirmed, kindly clean up your AWS account.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
+Step 8
+Allow all traffic,http and shh to 0.0.0.0/0
+chose vpc and subnets as default
+chose a new role
+
 
 
 
