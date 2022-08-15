@@ -33,6 +33,8 @@ Screenshot message on the browser
 Click on the open tab in the object dashboard
 Where you still able to access the object?
 What do you think is the difference?
+The only difference is when i click open,its automated with download
+But when i copy the URL and paste, its just load directly the image without download
 
 Step 6
 Go back to the permissions tab, unselect "Block public access"
@@ -65,8 +67,12 @@ Once confirmed, kindly clean up your AWS account.Delete your object and bucket.
 Edit the file in VSCode editor, save and push to your personal remote repo.
 
 
-
-
+Step 7
+From step 5, to copy and paste the json script in
+the bucket policy and leave every others as defualt
+put right the name of your created bucket and indent 
+properly to the left edge of the line of codes, then save
+changes and lunch the URL
 
 
 
